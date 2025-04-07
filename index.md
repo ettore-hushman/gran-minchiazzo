@@ -16,10 +16,10 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Pizza pazza che schiumazza 
 
-> margherita                            5€
-  marinara                              4€
-  la sgravata                          10€
-  
+>margherita                            5€
+>marinara                              4€
+>la sgravata                          10€
+
 ### Header 3
 
 ```js
